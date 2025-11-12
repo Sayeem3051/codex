@@ -21,9 +21,7 @@
     "output_items": [
       {
         "type": "message",
-        "content": [
-          { "content_type": "text", "text": "Assistant response" }
-        ]
+        "content": [{ "content_type": "text", "text": "Assistant response" }]
       }
     ]
   },
